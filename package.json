@@ -1,0 +1,13 @@
+{
+  "name": "the-dance-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "lint": "node --check app.js"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
